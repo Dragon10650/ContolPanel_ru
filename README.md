@@ -24,3 +24,8 @@
 
 > [!NOTE]
 > Также можете установить пароль с помощью шортката
+
+## Установка
+Вы можете установить Панель во вкладке <a href="https://github.com/Dragon10650/ContolPanel_ru/releases">Релизы</a>
+
+<a href="https://github.com/Dragon10650/ContolPanel_ru/releases/tag/v0.3.4">v0.3.4</a>
